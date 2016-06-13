@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "875815366110",
+    "project_id": "letterday-cccc6"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875815366110:android:c4a14ad35e75a0da",
+        "android_client_info": {
+          "package_name": "com.LetterDay.TheWithz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASbC9-AuCf1qqHzyMpI8Qo-EAQofBvXCU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

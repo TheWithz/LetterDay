@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LetterDay</string>
+    <string name="header_default">Today\'s Letter Day:</string>
+    <string name="text_view_default">Check Internet</string>
+    <string name="letter_day_a">A</string>
+    <string name="letter_day_b">B</string>
+    <string name="letter_day_c">C</string>
+    <string name="letter_day_d">D</string>
+    <string name="letter_day_e">E</string>
+    <string name="letter_day_f">F\nLab</string>
+    <string name="letter_day_null">0</string>
+    <string name="blank_string" />
+    <string name="gcm_defaultSenderId">875815366110</string>
+
+</resources>
